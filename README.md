@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello!<br>📖 I am a graduate student at UTA studying Data Science! <br>💻 I am passionate about building smart cities using data, and human behavior, and helping bridge the gap between underrepresented communities in tech!<br><br>📧 Shoot me an email or connect with me on LinkedIn. 
+# 👩🏻‍💻 About Me:
+Hello!<br>📖 I am a graduate student at UTA studying Data Science! <br>💻 I am passionate about creating smart cities using data science, public transportation, product analytics, and helping bridge the gap between underrepresented communities in tech!<br><br>📧 Shoot me an email or connect with me on LinkedIn! :)
 
 
 ## 🌐 Socials:
