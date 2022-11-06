@@ -1,6 +1,8 @@
 # 👩🏻‍💻 About Me:
 👋Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an emphasis on data visualization and machine learning. <br> I am passionate about creating smart cities using data science, public transportation, and helping bridge the gap between underrepresented communities in tech! Currently, I am learning Algorithms and Data Structures, Machine Learning, and Probabilty & Statistics. <br><br>📧 Shoot me an email or connect with me on LinkedIn! :)
 
+## Repositories:
+[Academic Projects](https://github.com/dua-malik/Academic_Projects#about-this-repository)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duajmalik) 
