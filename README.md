@@ -3,7 +3,9 @@
 
 ## 👩🏻‍💻Repositories:
 ### [Academic Projects](https://github.com/dua-malik/Academic_Projects#about-this-repository)
+
 <br>
+
 ### [Personal Projects](https://github.com/dua-malik/PersonalProjects)
 
 ## 🌐 Socials:
