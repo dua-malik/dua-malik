@@ -3,6 +3,8 @@
 
 ## 👩🏻‍💻Repositories:
 ### [Academic Projects](https://github.com/dua-malik/Academic_Projects#about-this-repository)
+<br>
+### [Personal Projects](https://github.com/dua-malik/PersonalProjects)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duajmalik) 
