@@ -3,7 +3,7 @@ Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an 
 
 ## Repositories:
 ### 🖇 [Resume](https://github.com/dua-malik/resume/blob/main/duajmalik_resume.pdf)
-### 📚 [Academic Projects](https://github.com/dua-malik/Academic_Projects#about-this-repository)
+### 📚 [Projects](https://github.com/dua-malik/Academic_Projects#about-this-repository)
 ### 📑 [Personal Projects](https://github.com/dua-malik/PersonalProjects)
 
 ## 🌐 Socials:
