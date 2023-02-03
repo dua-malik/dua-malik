@@ -1,5 +1,5 @@
 # 👩🏻‍💻 About Me:
-Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an emphasis on data visualization and machine learning. <br> I am passionate about creating smart cities using data science, public transportation, and helping bridge the gap between underrepresented communities in tech! 
+Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an emphasis on data visualization and machine learning. <br> I am passionate about using data for good such as shedding light the struggles of underrepresented communities as well as urban planning (walkable cities <3)! 
 
 ### Relevant Coursework:
 - Machine Learning
@@ -9,7 +9,7 @@ Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an 
 - ArcGIS (Geospatial Data Analysis)
 - Biostatistics 
 
-<br><br>📧 Shoot me an email at duajmalik@gmail.com or connect with me on LinkedIn! :)
+<br>📧 Shoot me an email at duajmalik@gmail.com or connect with me on LinkedIn! :)
 
 ## Repositories:
 ### 🖇 [Resume](https://github.com/dua-malik/resume/blob/main/duajmalik_resume.pdf)
