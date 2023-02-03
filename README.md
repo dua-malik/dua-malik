@@ -1,7 +1,7 @@
 # 👩🏻‍💻 About Me:
 Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an emphasis on data visualization and machine learning. <br> I am passionate about using data for good such as shedding light the struggles of underrepresented communities as well as urban planning (walkable cities <3)! 
 
-### Relevant Coursework:
+#### Relevant Coursework:
 - Machine Learning
 - Data Mining
 - Probability and Statistics for Data Science
