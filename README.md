@@ -6,7 +6,9 @@ Hello!<br><br> I'm Dua, a graduate student at UTA studying Data Science with an 
 - Data Mining
 - Probability and Statistics for Data Science
 - Project Management 
-- ArcGIS (Geospatial Data Analysis)
+- Geospatial Data Analysis
+- Applied Regression Analysis
+- Agent-Based Optimization
 - Biostatistics 
 
 <br>📧 Shoot me an email at duajmalik@gmail.com or connect with me on LinkedIn! :)
